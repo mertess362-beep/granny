@@ -6,7 +6,7 @@ odalar ={
 "Yatak Odası":["Oyuncak Ayı","Güvenli Anahtar"],
 "Banyo":["Pense","Kilitli Kutu"]
 "Bodrum":["Karpuz","Kod"]
-"Garaj":["Araba Parçası","Levye"}
+"Garaj":["Araba Parçası","Levye"]}
 while True:
 print(f"nŞu an {mevcut_oda}odasındasın")
 secim=input("Ne yapmak istersin?")
