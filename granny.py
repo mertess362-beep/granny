@@ -7,8 +7,8 @@ odalar ={
 "Bodrum":["Karpuz","Kod"],
 "Garaj":["Araba Parçası","Levye"]}
 while True:
-print(f"nŞu an {mevcut_oda}odasındasın")
-secim=input("Ne yapmak istersin?")
-if secim.lower()=="envanter":
-if not envanter:
-print("Envanterin boş")
+ print(f"nŞu an {mevcut_oda}odasındasın")
+ secim=input("Ne yapmak istersin?")
+ if secim.lower()=="envanter":
+ if not envanter:
+ print("Envanterin boş")
