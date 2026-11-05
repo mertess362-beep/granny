@@ -11,4 +11,4 @@ while True:
  secim=input("Ne yapmak istersin?")
  if secim.lower()=="envanter":
  if not envanter:
-   print("Envanterin boş")
+    print("Envanterin boş")
