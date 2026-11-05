@@ -1,7 +1,7 @@
 envanter=[]
 mevcut_oda="Evin girişi"
 odalar ={
-'Evin girişi":["Çekiç","Dolap"],
+"Evin girişi":["Çekiç","Dolap"],
 "Mutfak":["Anahtar",Kıskaç",Güvenlik Anahtarı"],
 "Yatak Odası":["Oyuncak Ayı"],
 "Bodrum":["Karpuz","Kod"],
